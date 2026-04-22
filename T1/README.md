@@ -6,7 +6,7 @@ To create a bar chart and histogram to visualize the distribution of data.
 
 ## Dataset
 
-A simple dataset containing Age and Gender.
+A simple dataset(titanic) containing Age and Gender.
 
 ## Tools Used
 
@@ -16,8 +16,9 @@ A simple dataset containing Age and Gender.
 
 ## Visualizations
 
-1. Bar Chart → Gender distribution
-2. Histogram → Age distribution
+1. Histogram → Age distribution
+2. Bar Chart → Gender distribution
+
 
 ## Conclusion
 
