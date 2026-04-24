@@ -22,10 +22,10 @@ The internship focused on building practical skills in data analysis, visualizat
 ```bash
 SC_DS_I/
 │
-├── T1_Data_Visualization/
-├── T2_EDA_Titanic/
-├── T3_DecisionTree_Model/
-├── T4_Accident_Analysis/
+├── T1/Data_Visualizatio
+├── T2/EDA
+├── T3/DecisionTree_Model
+├── T4/Accident_Analysis
 ```
 
 ---
